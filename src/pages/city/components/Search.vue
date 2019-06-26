@@ -19,7 +19,7 @@
   .seach-input
     box-sizing border-box
     height:.62rem
-    line-height:.62rem
+    line-height:.62rem 
     padding:0 .1rem
     width:100%
     text-align:center
