@@ -17,8 +17,8 @@
 
 <script>
   import {mapState} from 'vuex'
-    export default {
-        name: "Header",
+  export default {
+        name: "HomeHeader",
         computed:{
           ...mapState(['city'])
         }
