@@ -75,7 +75,7 @@
     top 0
     left 0
     right 0
-
+    z-index 2
     overflow:hidden
     height:.86rem
     line-height:.86rem
